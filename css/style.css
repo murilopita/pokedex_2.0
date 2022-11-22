@@ -123,8 +123,8 @@ main {
     border-radius: 5px;
     font-size: clamp(8px, 5vw, 1rem);
     font-weight: 600;
-    color: white;
-    background-color: #444;
+    color: black;
+    background-color: rgb(231, 241, 79);
     box-shadow: -2px 3px 0 #222, -4px 6px 0 #000;
 }
   
