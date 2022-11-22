@@ -14,7 +14,7 @@ a{
 
 body{
     width: 100%;
-    height: auto;
+    min-height: 100vh;
     text-align: center;
     background-color: #85FFBD;
     background-image: linear-gradient(to bottom, #85FFBD 0%, #FFFB7D 23%, #96e0f9 51%, #ffffff 99%);
@@ -80,13 +80,6 @@ main {
     box-shadow: -2px 2px 0 #888, -3px 4px 0 #333, inset -1.5px -1.5px 0 #7ca37c;
 }
 
-@media screen and (min-width: 300px){
-
-    .pokemonData{
-        top: 53.5%;
-    }
-}
-
 .pokemonName{
     color: #3a444d;
     text-transform: capitalize;
@@ -143,4 +136,14 @@ main {
 
 footer{
     padding: 20px;
+}
+
+
+/****** Media Queries ******/
+
+@media screen and (min-width: 300px){
+
+    .pokemonData{
+        top: 53.5%;
+    }
 }
