@@ -22,20 +22,18 @@ Na minha pokedex você consegue buscar qualquer pokemon através do número ou d
 
 # Deploy
 
-Você pode conferir o site clicando [aqui]().
+Você pode conferir o site clicando [aqui](https://murilopita.github.io/pokedex_2.0/).
 
 <br>
 
-<h1 align="center">
-    Desktop Version
-    <br>
-    <br>
-    <img src="./images/readme-imgs/desktop.png">
-</h1>
 
-<h1 align="center">
-    Mobile Version
-    <br>    
-    <br>
-    <img align="center" src="./images/readme-imgs/mobile.png">
-</h1>
+# Desktop Version
+
+<img src="./images/readme-imgs/desktop.png">
+
+<br>
+<br>
+
+# Mobile Version
+
+<img align="center" src="./images/readme-imgs/mobile.png">
