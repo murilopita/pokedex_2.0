@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<strong><p align="center">Plataforma de Busca e listagem de pokémons</p></strong>
+<strong><p align="center">Plataforma de Busca e listagem de Pokémons</p></strong>
 
 <br>
 
@@ -16,7 +16,7 @@ O desafio de projeto tinha como finalidade criar um site 100% responsivo e com a
 
 Todos os dados sobre os pokémons como nome, número, tipo e imagem, foram possíveis com o uso da API REST [PokéApi](https://pokeapi.co/).
 
-Na minha pokedex você consegue buscar qualquer pokemon através do número ou do nome do pokemon. Caso queira verificar na ordem, voce pode usar os botões de Next ou Prev.
+Na minha pokédex você consegue buscar qualquer pokémon através do número ou de seu nome do. Caso queira verificar na ordem, você pode usar os botões "Next" ou "Prev".
 
 <br>
 
