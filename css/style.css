@@ -70,7 +70,7 @@ main {
     color: rgb(102, 88, 233);
     top: 54.5%;
     right: 26%;
-    font-size: clamp(8px, 5vw, 25px);
+    font-size: clamp(8px, 5vw, 23px);
 
     width: 40%;
     height: 5%;
